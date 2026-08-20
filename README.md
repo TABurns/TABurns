@@ -1,4 +1,4 @@
-![Tyler Burns banner](./profile-banner.png)
+![Tyler Burns banner](./assets/profile-banner-short.png)
 
 Hello, I'm Tyler. I'm a **Data Engineer and Python Software Developer** experienced in building production applications, data pipelines, analytics, and automation.
 
