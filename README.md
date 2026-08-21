@@ -15,3 +15,7 @@ Hello, I'm Tyler. I'm a **Data Engineer and Python Software Developer** experien
 - **Data & Analytics:** Polars, pandas, SQL Server, Domo, Excel
 - **Application Development:** Flet, React, Tailwind CSS, REST APIs
 - **Automation & Testing:** Playwright, pytest
+
+## 📚 Projects
+
+See my [Portfolio](https://github.com/TABurns/Portfolio).
