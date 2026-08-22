@@ -9,12 +9,11 @@ Hello, I'm Tyler. I'm a **Data Engineer and Python Software Developer** experien
 
 
 
-## 🛠️ Tools
-
-- **Languages:** Python, SQL, JavaScript, HTML/CSS
-- **Data & Analytics:** Polars, pandas, SQL Server, Domo, Excel
-- **Application Development:** Flet, React, Tailwind CSS, REST APIs
-- **Automation & Testing:** Playwright, pytest
+## 🛠️ Tools & Focus Areas
+- **Data & Analytics**: SQL, Polars, pandas, SQL Server, Domo, Excel
+- **Automation & Integration**: REST APIs, Playwright, pytest
+- **Application Development**: Python, Flet, React, JavaScript, HTML/CSS, Tailwind CSS
+- **Core Work**: Data pipelines, dashboards, reporting, system integrations, testing, desktop apps, and deployment
 
 ## 📚 Projects
 
