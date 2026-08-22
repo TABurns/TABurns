@@ -2,10 +2,10 @@
 
 Hello, I'm Tyler. I'm a **Data Engineer and Python Software Developer** experienced in building production applications, data pipelines, analytics, and automation.
 
-- Building Python applications that solve complex operational problems.
-- Developing reliable data pipelines and integrations with Python, SQL Server, REST APIs, and Domo.
+- Developing reliable data pipelines and integrations with Python, SQL, REST APIs, and Domo.
 - Transforming and validating data using Polars, pandas, and SQL.
 - Creating KPI models, dashboards, and decision-support tools.
+- Building Python applications that solve complex operational problems.
 
 
 
